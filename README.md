@@ -45,7 +45,7 @@
 
 
 <img src="https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation"/>
-<img src="https://raw.githubusercontent.com/zouariste/corona-runner/gh-pages/assets/corona-runner.gif" alt="Corona Runner Game Animation"/>
+
 
 <p align="center">
   <a href="https://github.com/akpinaralper">
