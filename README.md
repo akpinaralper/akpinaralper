@@ -43,7 +43,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=akpinaralper&show_icons=true&locale=en" alt="akpinaralper" />
 </p>
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph"/>
+
 <img src="https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation"/>
 <img src="https://raw.githubusercontent.com/zouariste/corona-runner/gh-pages/assets/corona-runner.gif" alt="Corona Runner Game Animation"/>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" alt="Line Divider"/>
