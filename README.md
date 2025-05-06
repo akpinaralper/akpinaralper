@@ -45,6 +45,7 @@
 
 
 <img src="https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=akpinaralper&show_icons=true&theme=radical" alt="GitHub Stats"/>
 
 
 <p align="center">
