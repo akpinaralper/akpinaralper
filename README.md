@@ -45,7 +45,7 @@
 
 
 <h3 align="center">Check out my GitHub contributions!</h3>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=akpinaralper&show_icons=true&theme=radical" alt="GitHub Stats"/>
+
 
 
 <p align="center">
